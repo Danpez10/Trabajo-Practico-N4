@@ -1,0 +1,27 @@
+.navbar {
+    box-shadow: 2px 2px 5px rgb(43, 0, 255);
+}
+
+.navbar .nav-item .nav-link {
+    color:black;
+}
+
+.main-header {
+    position: relative;
+    background-color: goldenrod;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.main-section {
+    background-color: black;
+}
+
+.form-control, .btn{
+    border-radius: 0;
+}
+
+.team {
+    background:rgba(245, 245, 245, 0.403);
+
+}
